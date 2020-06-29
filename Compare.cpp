@@ -26,5 +26,5 @@ int main()
         }
     }
     f2.close();
-    f1.close();//testing version control
+    f1.close();
 }
